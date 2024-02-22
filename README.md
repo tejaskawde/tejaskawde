@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tejaskawde" 
+<a href="https://https://linktr.ee/tejaskawde?utm_source=linktree_profile_share&ltsid=613e6988-efe9-4198-8a4a-41300b14959a" 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
