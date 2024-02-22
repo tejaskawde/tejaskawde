@@ -1,6 +1,26 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Tejas kawde</h1>
 <h3 align="center">Passionate about bridging the dev/ops gap with code. Optimizing deployments with cloud platforms (AWS, Azure) is my game.</h3>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Connect</title>
+  <style>
+    a { 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      margin: 0 auto; 
+      text-decoration: none; 
+    }
+  </style>
+</head>
+<body>
+  <a href="https://linktr.ee/tejaskawde?utm_source=linktree_profile_share&ltsid=613e6988-efe9-4198-8a4a-41300b14959a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect" width="30" height="30">
+  </a>
+</body>
+</html>
 
 
 
