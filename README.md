@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tejas kawde</h1>
+<h1 align="center">Hi there👋, I'm Tejas kawde</h1>
 <h3 align="center">Passionate about bridging the dev/ops gap with code. Optimizing deployments with cloud platforms (AWS, Azure) is my game.</h3>
 
 
