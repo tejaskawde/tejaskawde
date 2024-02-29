@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Tejas kawde</h1>
-<h3 align="center">Passionate about bridging the dev/ops gap with code. Optimizing deployments with cloud platforms (AWS) is my game.</h3>
+<h3 align="center">Passionate about bridging the dev/ops gap with code. Optimizing deployments with cloud platforms (AWS/Azure) is my game.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
